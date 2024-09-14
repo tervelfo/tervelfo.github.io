@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tervelfo.github.io/sitemap.html.gz
+Sitemap: https://tervelfo.github.io/app/sitemap.html.gz
+Sitemap: https://tervelfo.github.io/assets/sitemap.html.gz
+Sitemap: https://tervelfo.github.io/css/sitemap.html.gz
+Sitemap: https://tervelfo.github.io/includes/sitemap.html.gz
+Sitemap: https://tervelfo.github.io/item/sitemap.html.gz
+Sitemap: https://tervelfo.github.io/src/sitemap.html.gz
